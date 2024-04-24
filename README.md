@@ -51,7 +51,7 @@
 
 ## 🌐 Web Presence
 <p align="left">
-<a href="https://www.linkedin.com/in/bhuvanesh-kolhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvanesh-kolhe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhuvaneshkolhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvanesh-kolhe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kolhe_bhuvanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kolhe_bhuvanesh" height="30" width="40" /></a>
 <a href="https://leetcode.com/BhuvanKolhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BhuvanKolhe" height="30" width="40" /></a>
 </p>
