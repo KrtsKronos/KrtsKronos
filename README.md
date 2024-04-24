@@ -49,10 +49,18 @@
 - JP Morgan Chase Virtual Internship 
 - AWS Academy Graduate - Cloud Foundations
 
-## 📊 GitHub Stats
-![Bhuvanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuvanesh291100&show_icons=true&theme=radical)
+## 🌐 Web Presence
+<p align="left">
+<a href="https://www.linkedin.com/in/bhuvanesh-kolhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvanesh-kolhe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bkkolhe29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bkkolhe29" height="30" width="40" /></a>
+<a href="https://leetcode.com/bkkolhe29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bkkolhe29" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh291100&layout=compact&theme=radical)](https://github.com/Bhuvanesh291100/github-readme-stats)
+## 📈 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh291100&show_icons=true&theme=radical" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh291100&theme=radical" />
+</p>
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-kolhe/)
